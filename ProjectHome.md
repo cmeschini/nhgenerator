@@ -1,0 +1,1 @@
+Generate automated .hbm from class
